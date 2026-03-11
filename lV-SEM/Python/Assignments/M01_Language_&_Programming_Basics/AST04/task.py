@@ -1,4 +1,5 @@
 def Reverse_String(s: str) -> str:
+    
     rev = ""
     for i in s:
         rev = i + rev

@@ -1,6 +1,7 @@
 from typing import List
 
 def Collatz_Sequence(n: int) -> List:
+    
     result = []
 
     while n != 1:
